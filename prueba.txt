@@ -1,3 +1,0 @@
-Este es un archivo de prueba para Development & Environment.
-
-Ahora creo esta línea en el archivo.
